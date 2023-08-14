@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">
+  Hello there
+  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
+</h1>
 
 <!--
 **dnadeem/dnadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
